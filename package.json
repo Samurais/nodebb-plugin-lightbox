@@ -1,6 +1,6 @@
 {
     "name": "nodebb-plugin-lightbox",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "This plugin opens pictures in a lightbox windows",
     "main": "library.js",
     "repository": {
@@ -16,6 +16,7 @@
         "name": "Rubén Ballester",
         "email": "irbbau@gmail.com"
     },
+    "license": "MIT",
     "contributors": [{
         "name": "Hai Liang Wang",
         "email": "hailiang.hl.wang@gmail.com"
